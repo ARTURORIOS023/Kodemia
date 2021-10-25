@@ -1,0 +1,54 @@
+header{
+    display: inline-table;
+    margin: 25px;
+    float: left;
+    color: white;
+
+
+}
+
+body{
+    background-image: url(bg-intro-desktop.png);
+    background-size: 100%;
+    background-color: salmon;
+    font-style: ;
+}
+
+#BotonTry{
+    float: right;
+    background-color: slateblue;
+    margin: 15px;
+    border-radius: 5px;
+    border-color: none;
+    display: block;
+
+}
+form{
+    float: right;
+    background-color: white;
+    padding: 15px;
+    width: 30%;
+    padding-right: 0px;
+    border-radius: 5px;
+    }
+
+input{
+    margin: 5px;
+    text-align: left;
+    padding-right: 45px;
+    border-radius: 5px;
+    border-style: solid;
+}
+
+#BotonClaim{
+    background-color:chartreuse;
+    margin-top: 5px;
+    margin-left: 6px;
+    border-radius: 5px;
+    color: white;
+    padding-right: 43px;
+}
+
+div{
+    float: right;
+}
