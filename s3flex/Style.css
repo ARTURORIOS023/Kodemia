@@ -44,9 +44,25 @@ article{
     justify-content: space-evenly;
 }
 
+.row-reverse{
+    flex-direction: row-reverse;
+}
+
+.column{
+    flex-direction: column;
+}
+
+.column-reverse{
+    flex-direction: column-reverse;
+}
+
 h2{
     margin-left: 1rem ;
     color: black;
 }
 
+.TITLES-EX{
+    font-size: 25pt;
+    color: rgb(133, 4, 14);
+}
 
