@@ -1,0 +1,52 @@
+body{
+    background-color: darkgray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+section{
+    display: flex;
+    flex-direction: row;
+    border:black 5px solid ;
+    margin: 1rem;
+    background-color: white;
+    }
+
+article{
+    background-color: peru;
+    border: black 2px solid;
+    border-radius: 2REM;
+    padding: 1rem;
+    margin: 0.25rem;
+    
+}
+
+.flex-start{
+    justify-content: flex-start;
+}
+
+.flex-end{
+    justify-content: flex-end;
+}
+
+.flex-center{
+    justify-content: center;
+}
+
+.flex-around{
+    justify-content: space-around;
+}
+
+.flex-between{
+    justify-content: space-between;
+}
+
+.flex-evenly{
+    justify-content: space-evenly;
+}
+
+h2{
+    margin-left: 1rem ;
+    color: black;
+}
+
+
