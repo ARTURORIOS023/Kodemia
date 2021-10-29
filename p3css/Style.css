@@ -42,7 +42,7 @@
         background-color: hsl(233, 26%, 24%);
         display: flex;
         justify-content: space-around;
-        margin-bottom: 1rem;
+        
     }
     
 
@@ -73,7 +73,7 @@
 }
 
 .principal{
-    background-image: url(images/bg-intro-desktop.svg);
+    background-image: url();
     display: flex;
     justify-content: flex-end;
     margin-top: 0;
@@ -131,12 +131,14 @@
 .section-footer{
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 .section-footer-button{
     display: flex;
     flex-direction: row;
-    justify-content:;
+    
 }
 .section-images{
     display: flex;
