@@ -1,0 +1,86 @@
+section {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 15%;
+}
+
+.bg-orange {
+  background-color: #e38826;
+  color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 50vh;
+  padding: 2rem;
+}
+
+.bg-orange .orange {
+  border-radius: 15px;
+  color: #e38826;
+  width: 25%;
+  border-color: #e38826;
+}
+
+.bg-Dark {
+  background-color: #006970;
+  color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 50vh;
+  padding: 2rem;
+}
+
+.bg-Dark .Dark {
+  border-radius: 15px;
+  color: #006970;
+  width: 25%;
+  border-color: #006970;
+}
+
+.bg-VeryDark {
+  background-color: #004241;
+  color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 50vh;
+  padding: 2rem;
+}
+
+.bg-VeryDark .VeryDark {
+  border-radius: 15px;
+  color: #004241;
+  width: 25%;
+  border-color: #004241;
+}
+/*# sourceMappingURL=prueba.css.map */

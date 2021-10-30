@@ -1,0 +1,53 @@
+body{
+    border: 0;
+    margin: 5rem;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    
+}
+
+.bg-orange{
+    background-color: hsl(31, 77%, 52%);
+}
+
+.bg-Dark{
+    background-color:  hsl(184, 100%, 22%);
+}
+
+.bg-VeryDark{
+    background-color: hsl(179, 100%, 13%);
+}
+
+h2{
+   display: inline-block;
+   border-radius: 0.2rem;
+   vertical-align: top;
+    width: 30%;
+    
+    
+
+    }
+
+button{
+    border-radius: 1rem;
+    margin: 1rem 2rem;
+    padding: 0.5rem 1rem;
+    }
+
+    .orange{
+        color: hsl(31, 77%, 52%);
+        border: hsl(31, 77%, 52%);
+    }
+
+    .Dark{
+        color: hsl(184, 100%, 22%);
+        border: hsl(184, 100%, 22%);
+    }
+    .VeryDark{
+        color: hsl(179, 100%, 13%);
+        border: hsl(179, 100%, 13%);
+    }
+
+    p{
+        margin: 2rem 2rem;
+    }
